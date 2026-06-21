@@ -1,0 +1,11 @@
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python Cache
+__pycache__/
+
+# Windows
+desktop.ini
