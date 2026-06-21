@@ -6,6 +6,8 @@
 
 # Python Cache
 __pycache__/
+*.pyc
 
 # Windows
 desktop.ini
+Thumbs.db
