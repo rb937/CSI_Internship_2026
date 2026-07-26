@@ -9,3 +9,4 @@ Weekly assignment work for the Celebal Summer Internship (Data Science track).
 | 3    | `week3_Rajat_Bisht.ipynb`, `dataset_country.csv` | Python, Pandas, Scikit-Learn, XGBoost, Classification, Confusion Matrix |
 | 4    | `week4_Rajat_Bisht.ipynb`                        | Python, Tensorflow, Keras, ANN, CNN                                     |
 | 5    | `week5_Rajat_Bisht.ipynb`                        | Python, RNN, LSTM, NLP, Text Preprocessing                              |
+| 6    | `week6_Rajat_Bisht.ipynb`                        | Python, Deep Learning, Autoencoder, Image Processing                    |

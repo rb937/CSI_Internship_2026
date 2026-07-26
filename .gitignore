@@ -11,3 +11,7 @@ __pycache__/
 # Windows
 desktop.ini
 Thumbs.db
+
+# models
+*.pth
+data/
