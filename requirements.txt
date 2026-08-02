@@ -7,3 +7,13 @@ statsmodels
 scikit-learn
 xgboost
 tensorflow
+
+# week 7
+streamlit
+chromadb
+pypdf
+requests
+
+# requires API keys
+openai  
+anthropic

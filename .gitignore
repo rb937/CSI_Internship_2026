@@ -15,3 +15,6 @@ Thumbs.db
 # models
 *.pth
 data/
+
+# vector store
+chroma_db/
