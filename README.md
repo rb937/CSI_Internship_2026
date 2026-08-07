@@ -11,3 +11,4 @@ Weekly assignment work for the Celebal Summer Internship (Data Science track).
 | 5    | `week5_Rajat_Bisht.ipynb`                                                                                                       | Python, RNN, LSTM, NLP, Text Preprocessing                              |
 | 6    | `week6_Rajat_Bisht.ipynb`                                                                                                       | Python, Deep Learning, Autoencoder, Image Processing                    |
 | 7    | `week7/app.py`, `week7/backend.py`, `week7/chatbot.py`, `week7/document_processor.py`, `week7/vectorstore.py`, `week7/SETUP.md` | Python, RAG, ChromaDB, Ollama, Streamlit, Embeddings, Vector Search     |
+| 8    | `week8_Rajat_Bisht.ipynb`                                                                                                       | Python, Agent Design, Intent Routing, Tool Integration, Logging         |
