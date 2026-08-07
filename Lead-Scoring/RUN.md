@@ -12,18 +12,18 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib streamli
 or
 
 ```bash
-pip install -r requirements.txt # in the base directory
+pip install -r requirements.txt # in the base directory (It has all the requirements libraries and additional ones based on other weeks task
 ```
 
 Place the raw dataset at:
 ```
-datasets/LeadScoring.csv
+dataset/LeadScoring.csv
 ```
 (Download from [Kaggle](https://www.kaggle.com/datasets/amritachatterjee09/lead-scoring-dataset).)
 
 ## Option A: Notebook (recommended first run)
 
-Run top to bottom:
+Run:
 ```
 notebook/eda_and_modeling.ipynb
 ```
@@ -45,7 +45,7 @@ Run in this order, from inside `src/`:
 
 2. **`score.py`** — scores a new CSV of leads using the trained model
    ```bash
-   python score.py --input path/to/new_leads.csv --output path/to/scored_leads.csv
+   python score.py --input path_to/new_leads.csv --output path_to/scored_leads.csv
    ```
    Requires `train.py` to have been run at least once first (it loads the saved
    model artifacts from `data/`).
