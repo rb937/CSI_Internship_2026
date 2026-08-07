@@ -16,5 +16,5 @@ pypdf
 requests
 
 # requires API keys
-openai  
+openai
 anthropic
