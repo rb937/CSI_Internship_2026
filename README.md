@@ -22,4 +22,4 @@ This repo tracks progression across the full internship:
 - **Week 7**: A local-first Retrieval-Augmented Generation (RAG) system — see [`week7/`](./week7)
 - **Week 8**: A single-agent smart assistant with intent-based tool routing
 
-A related final project — a lead scoring model for prioritizing sales leads by conversion likelihood — is in [`lead-scoring/`](./lead-scoring).
+A related final project — a lead scoring model for prioritizing sales leads by conversion likelihood — is in [`lead-scoring/`](./Lead-Scoring).
