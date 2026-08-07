@@ -7,8 +7,9 @@ statsmodels
 scikit-learn
 xgboost
 tensorflow
+joblib
 
-# week 7
+# week 7 specific
 streamlit
 chromadb
 pypdf
